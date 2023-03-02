@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"preserveConstEnums": true,
+		"sourceMap": true,
+		"moduleResolution": "node",
+		"lib": ["es2017", "dom"],
+		"types": [
+			"inferno"
+		],
+		"jsx": "preserve",
+		"noUnusedLocals": true,
+		"baseUrl": "./src",
+		"skipLibCheck": true,
+		"noUnusedParameters": true,
+		"noImplicitReturns": true,
+		"noFallthroughCasesInSwitch": true,
+	}
+}
